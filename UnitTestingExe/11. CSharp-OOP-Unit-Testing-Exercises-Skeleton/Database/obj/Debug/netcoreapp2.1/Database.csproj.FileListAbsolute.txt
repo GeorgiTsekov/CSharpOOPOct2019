@@ -1,0 +1,9 @@
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.pdb

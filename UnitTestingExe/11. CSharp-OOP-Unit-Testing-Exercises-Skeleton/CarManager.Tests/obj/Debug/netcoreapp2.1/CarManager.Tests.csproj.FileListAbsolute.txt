@@ -1,0 +1,17 @@
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+C:\Dev\OOP\UnitTestingExe\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete
