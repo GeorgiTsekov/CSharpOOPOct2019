@@ -1,0 +1,11 @@
+C:\Dev\OOP\SolidExe\P01Logger\bin\Debug\netcoreapp2.1\P01Logger.deps.json
+C:\Dev\OOP\SolidExe\P01Logger\bin\Debug\netcoreapp2.1\P01Logger.runtimeconfig.json
+C:\Dev\OOP\SolidExe\P01Logger\bin\Debug\netcoreapp2.1\P01Logger.runtimeconfig.dev.json
+C:\Dev\OOP\SolidExe\P01Logger\bin\Debug\netcoreapp2.1\P01Logger.dll
+C:\Dev\OOP\SolidExe\P01Logger\bin\Debug\netcoreapp2.1\P01Logger.pdb
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.csprojAssemblyReference.cache
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.AssemblyInfoInputs.cache
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.AssemblyInfo.cs
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.dll
+C:\Dev\OOP\SolidExe\P01Logger\obj\Debug\netcoreapp2.1\P01Logger.pdb
