@@ -1,0 +1,4 @@
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs

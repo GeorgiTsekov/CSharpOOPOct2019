@@ -1,0 +1,11 @@
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.csprojAssemblyReference.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.AssemblyInfo.cs
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\bin\Debug\netcoreapp2.1\SandBox.deps.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\bin\Debug\netcoreapp2.1\SandBox.runtimeconfig.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\bin\Debug\netcoreapp2.1\SandBox.runtimeconfig.dev.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\bin\Debug\netcoreapp2.1\SandBox.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\bin\Debug\netcoreapp2.1\SandBox.pdb
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\SandBox\obj\Debug\netcoreapp2.1\SandBox.pdb

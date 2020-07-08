@@ -1,0 +1,10 @@
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

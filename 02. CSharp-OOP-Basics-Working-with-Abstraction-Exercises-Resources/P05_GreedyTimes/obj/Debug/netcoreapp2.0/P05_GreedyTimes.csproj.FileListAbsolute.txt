@@ -1,0 +1,11 @@
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb

@@ -1,0 +1,11 @@
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csprojAssemblyReference.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+C:\Dev\OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb

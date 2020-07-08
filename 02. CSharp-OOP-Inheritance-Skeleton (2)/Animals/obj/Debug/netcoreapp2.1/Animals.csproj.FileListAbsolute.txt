@@ -1,0 +1,11 @@
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\Dev\OOP\02. CSharp-OOP-Inheritance-Skeleton (2)\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
