@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\georg\source\repos\OOPModul\Reflection-and-Attributes-Skeleton\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojAssemblyReference.cache

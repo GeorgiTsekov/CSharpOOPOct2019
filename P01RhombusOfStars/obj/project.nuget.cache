@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLQsipRf6pezse85llJQcxC5uBVEZM2n1OOLtnUsm6/5moIY5m3yuT5xIjA3sNWtr3A0vJM3rYwtFE2Dkbc+4g==",
+  "success": true,
+  "projectFilePath": "C:\\git\\CSharpOOPs\\P01RhombusOfStars\\P01RhombusOfStars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

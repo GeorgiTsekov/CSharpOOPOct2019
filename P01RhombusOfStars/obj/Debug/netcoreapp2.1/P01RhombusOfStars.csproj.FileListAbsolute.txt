@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\bin\Debug\netcoreapp2.1\P01RhombusOfStars.deps.json
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\bin\Debug\netcoreapp2.1\P01RhombusOfStars.runtimeconfig.json
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\bin\Debug\netcoreapp2.1\P01RhombusOfStars.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\bin\Debug\netcoreapp2.1\P01RhombusOfStars.dll
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\bin\Debug\netcoreapp2.1\P01RhombusOfStars.pdb
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.dll
+C:\Users\Tmp\source\repos\OOPWorkingWithAbstractionsLab\P01RhombusOfStars\obj\Debug\netcoreapp2.1\P01RhombusOfStars.pdb

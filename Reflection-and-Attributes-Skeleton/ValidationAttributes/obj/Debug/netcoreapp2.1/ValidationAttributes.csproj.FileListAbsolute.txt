@@ -1,0 +1,11 @@
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+C:\Dev\OOP\ReflectionExe\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb
