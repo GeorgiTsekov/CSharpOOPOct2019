@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU8oB98N7NvdFMKcovuK/6QQw0PmlQXzN02Zq47kZ+M42ii2/HmRCcGwBenSYgEYdBszLLG1Xz1/kbBAjwUCWA==",
+  "success": true,
+  "projectFilePath": "C:\\git\\CSharpOOP\\PolimorphysmExe\\P03WildFarm\\P03WildFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

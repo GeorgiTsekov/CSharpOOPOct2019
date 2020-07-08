@@ -1,0 +1,11 @@
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\bin\Debug\netcoreapp2.1\P01Vehicles.deps.json
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\bin\Debug\netcoreapp2.1\P01Vehicles.runtimeconfig.json
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\bin\Debug\netcoreapp2.1\P01Vehicles.runtimeconfig.dev.json
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\bin\Debug\netcoreapp2.1\P01Vehicles.dll
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\bin\Debug\netcoreapp2.1\P01Vehicles.pdb
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.csprojAssemblyReference.cache
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.AssemblyInfoInputs.cache
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.AssemblyInfo.cs
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.dll
+C:\Dev\OOP\PolimorphysmExe\P01Vehicles\obj\Debug\netcoreapp2.1\P01Vehicles.pdb

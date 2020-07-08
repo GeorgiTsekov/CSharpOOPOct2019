@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.exe
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.deps.json
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.dll
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\bin\Debug\netcoreapp3.0\P03WildFarm.pdb
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\obj\Debug\netcoreapp3.0\P03WildFarm.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\obj\Debug\netcoreapp3.0\P03WildFarm.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\obj\Debug\netcoreapp3.0\P03WildFarm.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\obj\Debug\netcoreapp3.0\P03WildFarm.dll
+C:\Users\georg\source\repos\OOPModul\PolimorphysmeExe\P03WildFarm\obj\Debug\netcoreapp3.0\P03WildFarm.pdb
