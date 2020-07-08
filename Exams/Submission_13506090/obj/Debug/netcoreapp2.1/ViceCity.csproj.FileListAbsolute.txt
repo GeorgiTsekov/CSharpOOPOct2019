@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\bin\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\georg\source\repos\OOPModul\Exams\Submission_13506090\obj\Debug\netcoreapp2.1\ViceCity.pdb

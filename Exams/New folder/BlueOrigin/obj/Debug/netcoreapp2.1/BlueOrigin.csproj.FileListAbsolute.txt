@@ -1,0 +1,11 @@
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+C:\Users\Cekov\Desktop\03. Unit Tests_Skeleton\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

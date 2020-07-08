@@ -1,0 +1,11 @@
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+C:\Dev\OOP\Exams\01. Structure_Skeleton (4)\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb
