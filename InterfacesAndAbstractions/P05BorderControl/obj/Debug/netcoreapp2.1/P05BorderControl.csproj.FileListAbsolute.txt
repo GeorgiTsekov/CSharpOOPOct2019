@@ -1,0 +1,11 @@
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\bin\Debug\netcoreapp2.1\P05BorderControl.deps.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\bin\Debug\netcoreapp2.1\P05BorderControl.runtimeconfig.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\bin\Debug\netcoreapp2.1\P05BorderControl.runtimeconfig.dev.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\bin\Debug\netcoreapp2.1\P05BorderControl.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\bin\Debug\netcoreapp2.1\P05BorderControl.pdb
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.csprojAssemblyReference.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.AssemblyInfoInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.AssemblyInfo.cs
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\P05BorderControl\obj\Debug\netcoreapp2.1\P05BorderControl.pdb

@@ -1,0 +1,11 @@
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb

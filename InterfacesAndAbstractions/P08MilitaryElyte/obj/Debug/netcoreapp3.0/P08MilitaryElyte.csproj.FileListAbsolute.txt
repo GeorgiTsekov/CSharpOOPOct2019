@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\obj\Debug\netcoreapp3.0\P08MilitaryElyte.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\obj\Debug\netcoreapp3.0\P08MilitaryElyte.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\obj\Debug\netcoreapp3.0\P08MilitaryElyte.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.exe
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.deps.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\bin\Debug\netcoreapp3.0\P08MilitaryElyte.pdb
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\obj\Debug\netcoreapp3.0\P08MilitaryElyte.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P08MilitaryElyte\obj\Debug\netcoreapp3.0\P08MilitaryElyte.pdb

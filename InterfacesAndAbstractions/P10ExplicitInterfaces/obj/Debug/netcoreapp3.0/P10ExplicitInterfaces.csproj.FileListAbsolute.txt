@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.exe
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.deps.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\bin\Debug\netcoreapp3.0\P10ExplicitInterfaces.pdb
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\obj\Debug\netcoreapp3.0\P10ExplicitInterfaces.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\obj\Debug\netcoreapp3.0\P10ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\obj\Debug\netcoreapp3.0\P10ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\obj\Debug\netcoreapp3.0\P10ExplicitInterfaces.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P10ExplicitInterfaces\obj\Debug\netcoreapp3.0\P10ExplicitInterfaces.pdb

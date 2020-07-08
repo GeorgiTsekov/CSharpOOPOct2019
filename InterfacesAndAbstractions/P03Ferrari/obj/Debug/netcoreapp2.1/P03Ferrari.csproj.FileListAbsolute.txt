@@ -1,0 +1,11 @@
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\bin\Debug\netcoreapp2.1\P03Ferrari.deps.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\bin\Debug\netcoreapp2.1\P03Ferrari.runtimeconfig.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\bin\Debug\netcoreapp2.1\P03Ferrari.runtimeconfig.dev.json
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\bin\Debug\netcoreapp2.1\P03Ferrari.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\bin\Debug\netcoreapp2.1\P03Ferrari.pdb
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.csprojAssemblyReference.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.csproj.CoreCompileInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.AssemblyInfoInputs.cache
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.AssemblyInfo.cs
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.dll
+C:\Dev\OOP\InterfacesAndAbstractionExe\P03Ferrari\obj\Debug\netcoreapp2.1\P03Ferrari.pdb

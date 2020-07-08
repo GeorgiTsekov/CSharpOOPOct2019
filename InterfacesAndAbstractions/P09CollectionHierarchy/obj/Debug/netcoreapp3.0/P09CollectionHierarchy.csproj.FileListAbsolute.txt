@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.exe
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.deps.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.runtimeconfig.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\bin\Debug\netcoreapp3.0\P09CollectionHierarchy.pdb
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\obj\Debug\netcoreapp3.0\P09CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\obj\Debug\netcoreapp3.0\P09CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\obj\Debug\netcoreapp3.0\P09CollectionHierarchy.AssemblyInfo.cs
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\obj\Debug\netcoreapp3.0\P09CollectionHierarchy.dll
+C:\Users\georg\source\repos\OOPModul\InterfacesAndAbstractionsExe\P09CollectionHierarchy\obj\Debug\netcoreapp3.0\P09CollectionHierarchy.pdb
